@@ -1,4 +1,4 @@
-Thanks! Based on your preference for a cleaner, more professional README that looks **great directly on GitHub**, here’s a well-formatted and aesthetic `README.md` that highlights your project properly — **without clutter**, with structured sections, and in a format that GitHub renders beautifully.
+
 
 ---
 
