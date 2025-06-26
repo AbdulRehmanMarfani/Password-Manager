@@ -1,9 +1,5 @@
 
 
----
-
-### ✅ Clean & GitHub-Friendly `README.md`:
-
 ````markdown
 # Password Manager – Python Tkinter App
 
